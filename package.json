@@ -35,6 +35,7 @@
             "miningcontracts": "nodes/miningcontracts.js",
             "miningequipment": "nodes/miningequipment.js",
             "price": "nodes/price.js",
+            "pricemultifull": "nodes/pricemultifull.js",
             "pricehistorical": "nodes/pricehistorical.js",
             "socialstats": "nodes/socialstats.js",
             "toppairs": "nodes/toppairs.js"
